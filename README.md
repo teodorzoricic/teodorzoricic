@@ -1,4 +1,4 @@
-# Hey, I'm Teodor 👋
+# Hey, I'm Teodor 
 
 Computer Science student focused on backend development, cybersecurity, and AI-powered tools.
 
