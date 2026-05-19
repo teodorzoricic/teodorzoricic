@@ -1,55 +1,46 @@
-# Hey, I'm Teodor 
+# Teodor Zoricic
 
-Computer Science student focused on backend development, cybersecurity, and AI-powered tools.
+Computer Science student focused on backend systems, cybersecurity, and AI-powered applications.
 
-I like building projects that are practical, fast, and actually usable — mostly around:
-- cybersecurity
-- automation
-- AI integrations
-- developer tools
-- low-level systems stuff
+Interested in building practical software with emphasis on performance, security, and clean architecture.
 
 ---
 
-## Tech I Work With
+## Technical Skills
 
-### Languages
-- Python
-- C
-- JavaScript
-- TypeScript
+**Languages**  
+Python • C • C++ • Java • JavaScript • TypeScript • SQL • Bash
 
-### Frameworks & Tools
-- FastAPI
-- Next.js
-- React
-- Tailwind CSS
-- Git
-- Linux
-- Docker
+**Backend & APIs**  
+FastAPI • REST APIs • Authentication • JWT • Backend architecture
 
-### Areas I'm Interested In
-- Cybersecurity
+**Frontend**  
+Next.js • React • Tailwind CSS • HTML • CSS
+
+**Cybersecurity**  
+Web security • CTF challenges • Payload analysis • Linux environments • Basic vulnerability research
+
+**Systems & Low-Level**  
+Linux • xv6 • Operating systems • Shared memory • System calls • Process management
+
+**Tools & Technologies**  
+Git • GitHub • Docker • VS Code • Postman • JSON • SQLite
+
+**AI & Automation**  
+LLM integrations • Prompt engineering • AI workflows • Automation tools
+
+---
+
+## Current Focus
+
+- backend engineering
 - AI applications
-- Operating systems
-- APIs & backend systems
-- Vulnerability research
-- System programming
-
+- secure systems
+- operating systems internals
+- scalable API design
 
 ---
 
-## Currently Learning
+## Links
 
-- Advanced backend architecture
-- AI/LLM workflows
-- Linux internals
-- Secure application design
-
----
-
-## Connect
-
-- LinkedIn:https://www.linkedin.com/in/teodor-zori%C4%8Di%C4%87-10393940b/
-
----
+- LinkedIn: https://www.linkedin.com/in/teodor-zori%C4%8Di%C4%87-10393940b/
